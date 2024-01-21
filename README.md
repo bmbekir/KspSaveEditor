@@ -1,3 +1,3 @@
 ﻿# KspSaveEditor
-﻿DOWNLOAD NOW!
-[https://github.com/bmbekir/KspSaveEditor/blob/main/KerbalSaveEditor0.0.1.zip](https://github.com/bmbekir/KspSaveEditor/blob/main/KerbalSaveEditor0.0.1.zip)
+
+[﻿DOWNLOAD NOW!](https://github.com/bmbekir/KspSaveEditor/raw/main/KerbalSaveEditor0.0.1.zip)
