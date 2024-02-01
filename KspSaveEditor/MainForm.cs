@@ -37,7 +37,7 @@ namespace KspSaveEditor
             d.Filter = "Json files (*.json)|*.json";
             if (DialogResult.OK == d.ShowDialog())
             {
-                //var encoding = GetEncoding(d.FileName);
+                FileName=d.FileName;
                 using (StreamReader sr = File.OpenText(d.FileName))
                 {
                     var json = sr.ReadToEnd();
